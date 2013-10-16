@@ -472,7 +472,9 @@ pt-BR:
       powered_by: "POWERED BY DIASPORA*"
       public_feed: "Feed público de Diaspora para %{name}"
       source_package: "baixar o pacote do código-fonte"
-      toggle: "Versão para celular"
+      toggle:
+        mobile: "Versão para celular"
+        web: "Versão para web"
       whats_new: "O que há de novo?"
       your_aspects: "Seus grupos"
     header:
